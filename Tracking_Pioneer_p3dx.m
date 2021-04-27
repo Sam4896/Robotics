@@ -1,6 +1,10 @@
 % Feel free to add code anywhere you find necessary to solve the task.
 % as a guide, we have provide recommendation where to add code
 
+% The code is for the implementation of the task in which tracking of the robot has been done using camera. We
+% need to control the camera servo motors so that the robot always remains in the center of the camera.
+
+
 %% DO NOT CHANGE ANYTHING HERE - Setting up the remote api
 vrep=remApi('remoteApi'); % using the prototype file (remoteApiProto.m)
 vrep.simxFinish(-1); % just in case, close all opened connections
