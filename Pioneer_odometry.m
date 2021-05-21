@@ -115,7 +115,7 @@ if (connected)
             xi = cordn(1,1);
             yi = cordn(2,1);
             thi = cordn(3,1);
-            pause(0.1);
+            pause(0.01);
         end
         i=i+1; % index increment of wheel positions vector
     end
