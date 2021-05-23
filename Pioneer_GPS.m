@@ -1,6 +1,3 @@
-%This code impliments a primitive KALMAN filter for the localisaion of the robot.
-
-
 % Feel free to add code anywhere you find necessary to solve the task.
 % as a guide, we have provide recommendation where to add code
 clear all, clc, clf
